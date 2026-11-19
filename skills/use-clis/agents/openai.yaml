@@ -1,0 +1,4 @@
+interface:
+  display_name: "Use CLIs"
+  short_description: "Make command-line tools discoverable across projects"
+  default_prompt: "Use $use-clis to help a fresh agent find and use the right CLI in this project."
